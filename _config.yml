@@ -1,0 +1,11 @@
+# meta
+author:      "David Velez"
+baseurl:     "/dveleztx.github.io"
+description: "Resume for my GitHub Page"
+title:       "David Velez's Resume"
+url:         "https://dveleztx.github.io"
+
+# build
+exclude:
+  - LICENSE
+  - README.md
